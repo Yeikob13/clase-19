@@ -1,2 +1,1 @@
-# clase-19
-e
+# Juegos-compatibles-con-dispositivos
